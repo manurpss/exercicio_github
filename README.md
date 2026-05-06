@@ -1,1 +1,3 @@
-# exercicio_github
+# exercicio_github 
+entender o assunto de github, mas o que é uma github?
+O GitHub é uma plataforma de hospedagem na nuvem para controle de versão e colaboração de projetos de software, utilizando o sistema Git. Ele funciona como uma rede social e repositório para programadores armazenarem, compartilharem e revisarem códigos de forma remota, facilitando o trabalho em equipe e projetos de código aberto (open source).
